@@ -1,5 +1,5 @@
-#num = 600851475143
-num = 13195
+num = 600851475143
+#num = 13195
 i = 2
 while i * i < num:
 	while num % i == 0:
